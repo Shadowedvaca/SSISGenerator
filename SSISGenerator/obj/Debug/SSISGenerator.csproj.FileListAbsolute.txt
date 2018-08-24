@@ -1,0 +1,14 @@
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\SSISGenerator.exe.config
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\SSISGenerator.exe
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\SSISGenerator.pdb
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\Microsoft.SQLServer.ManagedDTS.dll
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.csprojAssemblyReference.cache
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.csproj.CoreCompileInputs.cache
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.csproj.CopyComplete
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.exe
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.pdb
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\SSISGenerator.exe.manifest
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\bin\Debug\SSISGenerator.application
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.exe.manifest
+C:\Development\Mike Morris\SSISGenerator\SSISGenerator\obj\Debug\SSISGenerator.application
